@@ -19,13 +19,19 @@ Per ulteriori informazioni, visita la [documentazione](https://github.com/grauso
 ## **Screenshot**
 
 ### **Homepage**
-![Homepage](https://github.com/grauso-t/Bookster_Classe03/blob/master/Screenshot/HomePage.png)
+<p align="center">
+  <img src="https://github.com/grauso-t/Bookster_Classe03/blob/master/Screenshot/HomePage.png" alt="Homepage" width="650">
+</p>
 
 ### **Classifica**
-![Classifica](https://github.com/grauso-t/Bookster_Classe03/blob/master/Screenshot/Classifica.png)
+<p align="center">
+  <img src="https://github.com/grauso-t/Bookster_Classe03/blob/master/Screenshot/Classifica.png" alt="Classifica" width="650">
+</p>
 
 ### **Ricerca**
-![Ricerca](https://github.com/grauso-t/Bookster_Classe03/blob/master/Screenshot/Ricerca.png)
+<p align="center">
+  <img src="https://github.com/grauso-t/Bookster_Classe03/blob/master/Screenshot/Ricerca.png" alt="Ricerca" width="650">
+</p>
 
 ---
 
